@@ -1,16 +1,18 @@
 # darslikuz
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/3513b8e2-aacd-468a-beed-a42e76bbf930)
 
-## Getting Started
+<h2>Test page</h2>
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/b718e6bb-86e4-4f2f-a85a-85a3c1984b20)  ![image](https://github.com/user-attachments/assets/13f2810c-af2b-4660-af7c-b7596aae005a)
 
-A few resources to get you started if this is your first Flutter project:
+<h2>Book page</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/067482d2-a717-4b33-a893-96c165ab8510)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>App Info</h2>
+
+![image](https://github.com/user-attachments/assets/b994eab7-b166-4dad-abb8-05bfccb0d21a)
+
+
+
