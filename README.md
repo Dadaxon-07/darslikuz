@@ -4,7 +4,7 @@
 
 <h2>Test page</h2>
 
-![image](https://github.com/user-attachments/assets/b718e6bb-86e4-4f2f-a85a-85a3c1984b20) [image](https://github.com/user-attachments/assets/3afa8328-72dd-4fb2-b81a-3665ed8fef21)
+![image](https://github.com/user-attachments/assets/b718e6bb-86e4-4f2f-a85a-85a3c1984b20) ![image](https://github.com/user-attachments/assets/3afa8328-72dd-4fb2-b81a-3665ed8fef21)
 
 
 <h2>Book page && App Info</h2>
